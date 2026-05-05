@@ -1,0 +1,16 @@
+{
+  "name": "atividade5",
+  "version": "1.0.0",
+  "description": "Agendamento de consulta com Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.22.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
